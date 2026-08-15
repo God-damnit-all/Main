@@ -13,7 +13,7 @@
         }
     },
     "bin": [
-        "find.exe",
+        [ "find.exe", "gfind" ],
         "locate.exe",
         "updatedb.exe",
         "xargs.exe"
