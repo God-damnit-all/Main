@@ -1,10 +1,10 @@
 {
-    "version": "2026.5.0",
+    "version": "2026.10.3",
     "description": "Command-line Registry tool for searching, multi-hive support, plugins, and more.",
     "homepage": "https://ericzimmerman.github.io",
     "license": "MIT",
     "url": "https://download.ericzimmermanstools.com/net9/RECmd.zip",
-    "hash": "4a4e2f4beba54fdb9ba4eeb5e6f9d323e666b309e407ac89e047f82be0c963a2",
+    "hash": "dcdf32f5b75733c5a7cd6d9fc97572c8466b11cdb9cfb4eaa7d56416c6e1dae9",
     "extract_dir": "RECmd",
     "bin": "RECmd.exe",
     "checkver": {
